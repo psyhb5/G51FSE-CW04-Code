@@ -1,0 +1,19 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class Tests {
+
+	@Ignore
+	void test() {
+		fail("Not yet implemented");
+	}
+	
+	@Test 
+	void setup() {
+		for(i=0; i< 4; i++) {
+			
+		}
+	}
+
+}
