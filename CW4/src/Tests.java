@@ -23,4 +23,5 @@ class Tests {
 	}
 
 	/*This is to see if there was a change*/
+	/*This is the second test*/
 }
